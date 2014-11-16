@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 11df2886d219ff7468a50bfeb5811e11
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - loot: {fileID: 100000, guid: 6338695df608bb0428be3e60c399870e, type: 2}
+  - stats: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
